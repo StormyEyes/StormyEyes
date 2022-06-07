@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @StormyEyes
-- 👀 I’m interested in virtual fitness technology and languages
-- 🌱 I’m currently learning how to code my startup presale website
+- 👀 I’m interested in language and education technology
+- 🌱 I’m currently learning how to code 
 - 💞️ I’m looking to collaborate on website and app development
-- 📫 How to reach me hello@glowgym.co.nz
+- 📫 How to reach me hello@ariannahogan.com
 
 <!---
 StormyEyes/StormyEyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
